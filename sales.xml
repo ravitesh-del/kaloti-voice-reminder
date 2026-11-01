@@ -2,7 +2,5 @@
 <Response>
   <Wait length="1"/>
   <Play>https://ravitesh-del.github.io/kaloti-voice-reminder/sales.mp3</Play>
-  <Wait length="2"/>
-  <Play>https://ravitesh-del.github.io/kaloti-voice-reminder/sales.mp3</Play>
   <Hangup/>
 </Response>
